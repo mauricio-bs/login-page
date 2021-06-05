@@ -1,0 +1,98 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	display: block;
+	margin: 128px 277px 12px 16px;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32px;
+	line-height: 41px;
+	color: #000000;
+	letter-spacing: 0.41px;
+}
+
+.entry-message {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 26px;
+	color: rgba(0, 0, 0, 0.5);
+	margin: auto 16px 102px 16px;
+}
+
+input {
+	display: block;
+	background: #f2f2f7;
+	border-radius: 6px;
+	width: 343px;
+	height: 48px;
+	margin: auto 16px;
+	border: none;
+}
+
+input::placeholder {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 22px;
+	color: #929292;
+	padding-left: 14px;
+}
+
+.inp-psswd {
+	margin-top: 12px;
+}
+
+.forgot {
+	display: block;
+	text-align: right;
+	margin-top: 17px;
+	padding-right: 16px;
+	color: #007aff;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 22px;
+}
+
+button {
+	display: block;
+	margin: 20px auto 0 auto;
+	width: 343px;
+	height: 48px;
+	border-radius: 10px;
+	text-align: center;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 17px;
+	line-height: 22px;
+	color: #ffffff;
+	background: rgba(0, 0, 0, 0.94);
+}
+
+.signup {
+	margin: 204px auto 39px auto;
+	text-align: center;
+	color: rgba(0, 0, 0, 0.51);
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+.signup-link {
+	color: #007AFF;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+}
