@@ -1,6 +1,6 @@
 # login-page
 
-<img src="./assets/desafio-2-CSS.jpg" width="350px" alt="login-page">
+<img src="./assets/desafio-2-CSS.jpg" width="130px" alt="login-page">
 
 <p>Simple login page made with HTML and CSS</p>
 
